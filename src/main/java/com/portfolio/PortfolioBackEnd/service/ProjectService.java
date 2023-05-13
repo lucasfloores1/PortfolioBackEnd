@@ -23,7 +23,7 @@ public class ProjectService implements IProjectService{
     @Override
     public ResponseEntity<Project> createProject(Project pro) {
         Project project = proRepo.save(pro);
-        return ResponseEntity.ok(pro);
+        return ResponseEntity.ok(project);
     }
 
     @Override

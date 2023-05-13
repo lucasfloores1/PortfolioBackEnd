@@ -22,7 +22,7 @@ public class UserService implements IUserService{
     @Override
     public ResponseEntity<User> createUser(User user) {
         User createdUser = userRepo.save(user);
-        return ResponseEntity.ok(user);
+        return ResponseEntity.ok(createdUser);
     }
 
     @Override

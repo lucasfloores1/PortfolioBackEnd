@@ -24,7 +24,7 @@ public class SkillsService implements ISkillsService{
     @Override
     public ResponseEntity<Skills> createSkills(Skills ski) {
         Skills skill = skiRepo.save(ski);
-        return ResponseEntity.ok(ski);
+        return ResponseEntity.ok(skill);
     }
 
     @Override
