@@ -6,6 +6,7 @@ C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\Po
 C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\controller\ExperienceController.java
 C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\repository\ExperienceRepository.java
 C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\service\AdminService.java
+C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\service\UserService.java
 C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\controller\InfoController.java
 C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\model\Info.java
 C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\repository\EducationRepository.java
@@ -21,12 +22,16 @@ C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\Po
 C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\service\IProjectService.java
 C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\controller\SkillsController.java
 C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\model\Experience.java
+C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\repository\UserRepository.java
 C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\service\ExperienceService.java
 C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\service\IExperienceService.java
 C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\service\EducationService.java
+C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\service\IUserService.java
 C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\controller\AdminController.java
 C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\service\IInfoService.java
 C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\PortfolioBackEndApplication.java
 C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\repository\AdminRepository.java
 C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\service\ISkillsService.java
+C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\controller\UserController.java
 C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\WebConfig.java
+C:\Users\lucas\Desktop\Portfolio\PortfolioBackEnd\src\main\java\com\portfolio\PortfolioBackEnd\model\User.java

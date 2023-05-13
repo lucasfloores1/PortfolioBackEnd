@@ -7,14 +7,16 @@ com\portfolio\PortfolioBackEnd\service\IAdminService.class
 com\portfolio\PortfolioBackEnd\service\AdminService.class
 com\portfolio\PortfolioBackEnd\model\Info.class
 com\portfolio\PortfolioBackEnd\repository\ExperienceRepository.class
+com\portfolio\PortfolioBackEnd\controller\UserController.class
 com\portfolio\PortfolioBackEnd\repository\EducationRepository.class
 com\portfolio\PortfolioBackEnd\controller\AdminController.class
 com\portfolio\PortfolioBackEnd\service\IExperienceService.class
 com\portfolio\PortfolioBackEnd\model\Admin.class
 com\portfolio\PortfolioBackEnd\model\Experience.class
 com\portfolio\PortfolioBackEnd\repository\AdminRepository.class
+com\portfolio\PortfolioBackEnd\repository\UserRepository.class
+com\portfolio\PortfolioBackEnd\service\IUserService.class
 com\portfolio\PortfolioBackEnd\service\SkillsService.class
-com\portfolio\PortfolioBackEnd\WebConfig.class
 com\portfolio\PortfolioBackEnd\controller\EducationController.class
 com\portfolio\PortfolioBackEnd\service\InfoService.class
 com\portfolio\PortfolioBackEnd\controller\SkillsController.class
@@ -26,7 +28,9 @@ com\portfolio\PortfolioBackEnd\service\IProjectService.class
 com\portfolio\PortfolioBackEnd\controller\ExperienceController.class
 com\portfolio\PortfolioBackEnd\model\Skills.class
 com\portfolio\PortfolioBackEnd\controller\InfoController.class
+com\portfolio\PortfolioBackEnd\model\User.class
 com\portfolio\PortfolioBackEnd\controller\ProjectController.class
 com\portfolio\PortfolioBackEnd\model\Education.class
+com\portfolio\PortfolioBackEnd\service\UserService.class
 com\portfolio\PortfolioBackEnd\model\Project.class
 com\portfolio\PortfolioBackEnd\service\ISkillsService.class
