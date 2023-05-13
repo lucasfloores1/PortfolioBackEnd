@@ -33,9 +33,6 @@ public class User {
     @Column ( name = "aboutme" , length = 200 , nullable = false )
     private String aboutme;
     
-    @Column ( name = "description" , length = 200 , nullable = false )
-    private String description;
-    
     @Column ( name = "bannerurl" , length = 200 , nullable = false )
     private String bannerurl;
     
@@ -45,7 +42,7 @@ public class User {
     public User() {
     }
 
-    public User(Long id, String username, String password, String title, String name, String aboutme, String description, String bannerurl, String pfpurl) {
+    public User(Long id, String username, String password, String title, String name, String aboutme, String bannerurl, String pfpurl) {
         this.id = id;
         this.username = username;
         this.password = password;
@@ -55,5 +52,6 @@ public class User {
         this.bannerurl = bannerurl;
         this.pfpurl = pfpurl;
     }
-    
+
+
 }
